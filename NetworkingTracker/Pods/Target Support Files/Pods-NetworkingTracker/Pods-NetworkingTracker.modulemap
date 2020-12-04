@@ -1,0 +1,6 @@
+framework module Pods_NetworkingTracker {
+  umbrella header "Pods-NetworkingTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
